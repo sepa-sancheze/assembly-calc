@@ -1,4 +1,4 @@
-Calculadora en Assembler
+<h1>Calculadora en Assembler</h1>
 
 Creación de la calculadora que realiza las operaciones básicas	
 
@@ -8,7 +8,7 @@ Creación de la calculadora que realiza las operaciones básicas
 	División
 	Módulo
 
-Compilar y ejecutar
+<h2>Compilar y ejecutar</h2>
 
 Para realizar dichas operaciones se ejecutan los siguientes comandos:
 
