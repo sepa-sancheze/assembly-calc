@@ -12,6 +12,6 @@ Compilar y ejecutar
 
 Para realizar dichas operaciones se ejecutan los siguientes comandos:
 
-nasm -f elf operaciones.asm 			;Ensamblar
-gcc -m32 -o operaciones operaciones.o 	;Compilar
-./operaciones 							;Ejecutar
+	nasm -f elf operaciones.asm 			;Ensamblar
+	gcc -m32 -o operaciones operaciones.o 		;Compilar
+	./operaciones 					;Ejecutar
