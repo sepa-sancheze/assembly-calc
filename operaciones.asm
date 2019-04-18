@@ -1,7 +1,3 @@
-;nasm -f elf operaciones.asm
-;gcc -m32 -o operaciones operaciones.o
-;./operaciones
-
 ;Operaciones fundamentales con entrada del usuario
 extern printf, scanf
 %include	'funciones32.asm'
